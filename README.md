@@ -19,6 +19,7 @@
  <a href="#curso">Curso</a> •
  <a href="#desafio-codigo">Desafio de Codigo</a> •
  <a href="#desafio-projeto">Desafio de Projeto</a> •
+  <a href="#tecnologias">Tecnologias e Ferramentas</a> •
  <a href="#autor">Autor</a> 
 
 </p>
@@ -72,6 +73,22 @@
 - [ ] Criando um Banco Digital com Java e Orientação a Objetos
 - [ ] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 
+---
+
+<h3><a name="tecnologias">🛠 Tecnologias e Ferramentas</a></h3>
+As seguintes ferramentas foram ensinadas no decorrer do bootcamp:
+ 
+#### Linguagens
+- ##### Java <img src="/image/tecnologias/java.svg" width="30">  
+- ##### SQL SERVER <img src="/image/tecnologias/microsoftsqlserver.svg" width="30"> 
+
+#### Framework
+- ##### Spring Boot <img src="/image/tecnologias/springboot.svg" width="30"> 
+
+#### Utilitarios
+- ##### Git <img src="/image/tecnologias/git.svg" width="30"> 
+- ##### Eclipse IDE <img src="/image/tecnologias/eclipseide.svg" width="30"> 
+- ##### Ubuntu <img src="/image/tecnologias/ubuntu.svg" width="30"> 
 ---
 
 <h3><a name="autor">🦸 Autor</a></h3>
