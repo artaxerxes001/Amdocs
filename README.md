@@ -69,7 +69,7 @@
 
 <h3><a name="desafio-projeto">Desafio de Projetos</a></h3>
 
-- [ ] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [ ] Criando um Banco Digital com Java e Orientação a Objetos
 - [ ] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 
