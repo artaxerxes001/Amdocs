@@ -11,7 +11,7 @@
     <h1><a href="https://web.dio.me/track/amdocs-java-developer"> Bootcamp Amdocs </a> </h1>
 </p>
 <h4> 
-	🚧  Bootcamp Amdocs 🚀 Em andamento 38.4%  ... 🚧
+	🚧  Bootcamp Amdocs 🚀 Em andamento 42.3%  ... 🚧
 </h4>
 
 <p>
@@ -36,7 +36,7 @@
 - [x] Lógica de Programação Essencial
 - [x] Aprenda o que são Estrutura de Dados e Algoritmos
 - [x] Introdução ao Git e ao GitHub
-- [ ] Projetos ágeis com SCRUM
+- [x] Projetos ágeis com SCRUM
 - [x] Linux: Introdução ao Sistema Operacional e Terminal
 - [ ] Linux: Diretórios e Comandos Essenciais
 - [ ] Linux: Fundamentos de Redes e Comandos Avançados
